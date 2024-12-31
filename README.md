@@ -1,5 +1,7 @@
 # 1labexam12334
 hello how are you
+today is the git labexam
+i am 3rd year student
 //first we have to create a repository to clone the file 
 // now we can create a file using a command add x.c
 // after the adding the file we can commit using the command commit -m "sdfghjk"
